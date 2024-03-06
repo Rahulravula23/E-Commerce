@@ -9,10 +9,8 @@ Remove products from the shopping cart.
 Update the quantity of products in the shopping cart.
 Proceed with the checkout process.
 Screenshots
-    
 
-
-
+![image](https://github.com/Rahulravula23/E-Commerce/assets/119953278/a2510f58-90d8-494f-9ed0-6992455b6752)
 
 Installation
 Clone the repository:
